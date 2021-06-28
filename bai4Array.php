@@ -41,4 +41,4 @@ function findProduct($listProduct, $nameProduct)
 $product = findProduct($products, 'VGA');
 
 echo '<pre/>';
-var_dump($product);
+print_r($product);
